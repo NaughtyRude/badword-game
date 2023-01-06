@@ -47,7 +47,7 @@ function KeyBoard(props) {
   const [letters, setletters] = useState(defaultLetters);
   useEffect(() => {
     setletters(props.letters);
-  }, [props.changed, props.letters]);
+  }, [props.changed]);
 
   const keyHandler = (value) => {
     props.keyHandler(value);

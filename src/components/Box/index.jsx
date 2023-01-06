@@ -13,7 +13,7 @@ function Box(props) {
       if (props.state === "N")
         setState("bg-wrong text-white dark:bg-gray-600");
     }, 125 * props.pos);
-  }, [props.state, props.pos]);
+  }, [props.state]);
 
   return (
     <div

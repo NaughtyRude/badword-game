@@ -103,11 +103,11 @@ function Board(props) {
         }
       }
     }
-  }, [props.clicks, board, changed, col, lost, row, win, props]);
+  }, [props.clicks]);
 
   useEffect(() => {
     props.letters(letters);
-  }, [changed, letters, props]);
+  }, [changed]);
 
   return (
     <div className="px-10 py-5 grid gap-y-1 items-center w-100 justify-center">

@@ -37,7 +37,7 @@ function Game(props) {
 
   useEffect(() => {
     props.darkness(dark);
-  }, [dark, props]);
+  }, [dark]);
 
   const keyHandler = (letterValue) => {
     setLetter(letterValue);
