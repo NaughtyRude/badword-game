@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6ac562f.css",
-    "main.js": "/static/js/main.bfcc82b4.js",
-    "static/js/787.7efd31bd.chunk.js": "/static/js/787.7efd31bd.chunk.js",
-    "index.html": "/index.html",
-    "main.a6ac562f.css.map": "/static/css/main.a6ac562f.css.map",
-    "main.bfcc82b4.js.map": "/static/js/main.bfcc82b4.js.map",
-    "787.7efd31bd.chunk.js.map": "/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/badword-game/static/css/main.a6ac562f.css",
+    "main.js": "/badword-game/static/js/main.a754ab36.js",
+    "static/js/787.7efd31bd.chunk.js": "/badword-game/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/badword-game/index.html",
+    "main.a6ac562f.css.map": "/badword-game/static/css/main.a6ac562f.css.map",
+    "main.a754ab36.js.map": "/badword-game/static/js/main.a754ab36.js.map",
+    "787.7efd31bd.chunk.js.map": "/badword-game/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6ac562f.css",
-    "static/js/main.bfcc82b4.js"
+    "static/js/main.a754ab36.js"
   ]
 }
