@@ -1,0 +1,1 @@
+## NaughtyRude Bad Words
